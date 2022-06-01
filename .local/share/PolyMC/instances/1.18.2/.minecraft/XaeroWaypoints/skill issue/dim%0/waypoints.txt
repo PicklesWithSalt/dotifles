@@ -1,0 +1,10 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:village nr iodfjgsuidofhgnjdf:V:-2000:64:2999:2:false:0:gui.xaero_default:false:0:false
+waypoint:village giufdhgfuio:V:-2436:96:4026:7:false:0:gui.xaero_default:false:0:false
+waypoint:yet another village:Y:-359:62:2144:0:false:0:gui.xaero_default:false:0:false
+waypoint:another village:A:-329:66:1308:2:false:0:gui.xaero_default:false:0:false
+waypoint:village:V:-301:73:572:14:false:0:gui.xaero_default:false:0:false
+waypoint:base camp:B:-283:105:400:11:false:0:gui.xaero_default:false:0:false
+waypoint:Igloo:I:-734:34:214:5:false:0:gui.xaero_default:false:0:false
